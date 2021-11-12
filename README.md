@@ -6,9 +6,9 @@
 During the this module we had the oportunity to learn the programming language "Python"
 We worked with data of votes and candidates of an the election in 3 differents counties:
 
-Jefferson
-Denver
-Arapahoe
+	Jefferson
+	Denver
+	Arapahoe
 
 We had 3 candidates:
 
