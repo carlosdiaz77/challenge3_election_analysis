@@ -52,11 +52,11 @@ This election had 369,711 votes
 
 -	1.  The data cab be multi-grouped where in the firs level  is the county and in the second is the candidate. We would be able to see who won in each county.
 
--	- <img src = "Resources/proposal1" width= "500" >
+-	- <img src = "Resources/proposal1.png" width= "500" >
 -	
 -	2.  The data can oslo be shown grouped mainly by candidate and then by county. In this way, we could see where each candidate had better results
 -	
--	- <img src = "Resources/proposal2" width= "500" >
+-	- <img src = "Resources/proposal2.png" width= "500" >
 
 	In summary, we can say Denver is the key element for this election, This County has 82% of the votes 
 
