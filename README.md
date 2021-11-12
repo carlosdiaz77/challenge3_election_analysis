@@ -56,5 +56,5 @@ This election had 369,711 votes
 -	
 -	- <img src = "Resources/proposal2.png" width= "500" >
 
-	In summary, we can say Denver is the key element for this election, This County has 82% of the votes and Diana's result in Denver were key for the whole election.
+	In summary, we can say Denver is the key element for this election, This County has 82% of the votes and Diana's result in Denver was key for the whole election.
 
