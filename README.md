@@ -58,5 +58,5 @@ This election had 369,711 votes
 -	
 -	- <img src = "Resources/proposal2" width= "500" >
 
-In summary, we can say Denver is the key element for this election, This County has 82% of the votes 
+	In summary, we can say Denver is the key element for this election, This County has 82% of the votes 
 
