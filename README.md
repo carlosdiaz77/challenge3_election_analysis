@@ -27,22 +27,22 @@ We had 3 candidates:
 
 This election had 369,711 votes
 
-- <img src = "Resources/ total_votes.png" width= "300" >
+- <img src = "Resources/total_votes.png" width= "300" >
 
 ### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-- <img src = "Resources/ county_votes.png" width= "300" >
+- <img src = "Resources/county_votes.png" width= "300" >
 
 ### Which county had the largest number of votes?
 
-- <img src = "Resources/ winning_county.png" width= "500" >
+- <img src = "Resources/winning_county.png" width= "500" >
 ###Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-- <img src = "Resources/ candidates.png" width= "500" >
+- <img src = "Resources/candidates.png" width= "500" >
 
 ###Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-- <img src = "Resources/ winner.png" width= "500" >
+- <img src = "Resources/winner.png" width= "500" >
 
 
 
@@ -52,11 +52,11 @@ This election had 369,711 votes
 
 -	1.  The data cab be multi-grouped where in the firs level  is the county and in the second is the candidate. We would be able to see who won in each county.
 
--	- <img src = "Resources/ proposal1" width= "500" >
+-	- <img src = "Resources/proposal1" width= "500" >
 -	
 -	2.  The data can oslo be shown grouped mainly by candidate and then by county. In this way, we could see where each candidate had better results
 -	
--	- <img src = "Resources/ proposal2" width= "500" >
+-	- <img src = "Resources/proposal2" width= "500" >
 
 In summary, we can say Denver is the key element for this election, This County has 82% of the votes 
 
