@@ -25,22 +25,22 @@ We had 3 candidates:
 
 This election had 369,711 votes
 
-- <img src = "Resources/total_votes.png" width= "300" >
+- <img src = "Resources/total_votes.png" width= "400" >
 
 ### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-- <img src = "Resources/county_votes.png" width= "300" >
+- <img src = "Resources/county_votes.png" width= "400" >
 
 ### Which county had the largest number of votes?
 
-- <img src = "Resources/winning_county.png" width= "500" >
+- <img src = "Resources/winning_county.png" width= "400" >
 ###Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-- <img src = "Resources/candidates.png" width= "500" >
+- <img src = "Resources/candidates.png" width= "400" >
 
 ###Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-- <img src = "Resources/winner.png" width= "500" >
+- <img src = "Resources/winner.png" width= "400" >
 
 
 
